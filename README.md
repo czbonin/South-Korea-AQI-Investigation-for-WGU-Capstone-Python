@@ -6,7 +6,8 @@ Given the economic and health impacts of poor air quality, it is essential to bu
 
 Our primary question is: to what extent do daily temperature and precipitation indicate daily and yearly trends in PM2.5 values across South Korea? To work up to this central question, we will first conduct EDA and later experiment with modeling. For regional insights, we will focus on three different areas:
 
-Gwanak-gu, a district in Seoul (northwest, Seoul/Gyeonggi Province)
-Hyeoksin-dong, a neighborhood in Jeonju (southwest, North Jeolla Province)
-Cheongnim-dong, a neighborhood in Pohang (mid-east, North Gyeongsang Province)
+- Gwanak-gu, a district in Seoul (northwest, Seoul/Gyeonggi Province)
+- Hyeoksin-dong, a neighborhood in Jeonju (southwest, North Jeolla Province)
+- Cheongnim-dong, a neighborhood in Pohang (mid-east, North Gyeongsang Province)
+
 This will allow us to understand geographical variations in our data.
